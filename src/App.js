@@ -12,14 +12,13 @@ function App() {
     <Router>
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/register" element={<Register />} />
-          <Route path="/courses" element={<Courses />} />
-          <Route path="/reservation" element={<Reservation />} />
+          <Route path="/gym-app-DEDI" element={<Home />} />
+          <Route path="/gym-app-DEDI/register" element={<Register />} />
+          <Route path="/gym-app-DEDI/courses" element={<Courses />} />
+          <Route path="/gym-app-DEDI/reservation" element={<Reservation />} />
         </Routes>
     </Router>
   );
 }
-
 
 export default App;

@@ -5,10 +5,10 @@ import './Header.css';
 function Header (){
     return(
         <nav>
-            <Link to="/">Inicio</Link>
-            <Link to="/register">Registro</Link>
-            <Link to="/courses">Cursos</Link>
-            <Link to="/reservation">Reservas</Link>
+            <Link to="/gym-app-DEDI">Inicio</Link>
+            <Link to="/gym-app-DEDI/register">Registro</Link>
+            <Link to="/gym-app-DEDI/courses">Cursos</Link>
+            <Link to="/gym-app-DEDI/reservation">Reservas</Link>
         </nav>
     )
 

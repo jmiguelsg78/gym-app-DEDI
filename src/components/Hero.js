@@ -1,4 +1,5 @@
 import './Hero.css';
+import gymInfo from '../assets/images/gym-info.png';
 
 function Hero() {
     return (
@@ -14,7 +15,7 @@ function Hero() {
                     <p>Horario: Lunes a Viernes - 8:00 AM a 10:00 PM</p>
                     <p>Teléfono: 123-456-789</p>
                 </div>
-                <img src="gym-info.png" alt="imagen de informacion" />
+                <img src={gymInfo} alt="imagen de informacion" />
             </section>
         </main>
     )
