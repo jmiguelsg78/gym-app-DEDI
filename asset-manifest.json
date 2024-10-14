@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/gym-app-DEDI/static/css/main.2de2adab.css",
-    "main.js": "/gym-app-DEDI/static/js/main.7072d576.js",
+    "main.js": "/gym-app-DEDI/static/js/main.9cfb5c94.js",
     "static/media/fondo-gym.jpg": "/gym-app-DEDI/static/media/fondo-gym.c601a66af202b7fa6fa9.jpg",
+    "static/media/gym-info.png": "/gym-app-DEDI/static/media/gym-info.3d03f559ad25b42b5432.png",
     "index.html": "/gym-app-DEDI/index.html",
     "main.2de2adab.css.map": "/gym-app-DEDI/static/css/main.2de2adab.css.map",
-    "main.7072d576.js.map": "/gym-app-DEDI/static/js/main.7072d576.js.map"
+    "main.9cfb5c94.js.map": "/gym-app-DEDI/static/js/main.9cfb5c94.js.map"
   },
   "entrypoints": [
     "static/css/main.2de2adab.css",
-    "static/js/main.7072d576.js"
+    "static/js/main.9cfb5c94.js"
   ]
 }
